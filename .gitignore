@@ -60,6 +60,10 @@ atlassian*
 
 /*.*
 
+Makefile
+
+desktop
+
 !/composer.json
 !/composer.lock
 !/README.md
