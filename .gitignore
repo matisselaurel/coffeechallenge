@@ -64,6 +64,12 @@ Makefile
 
 desktop
 
+update
+
+phpserver
+
+dev
+
 !/composer.json
 !/composer.lock
 !/README.md
